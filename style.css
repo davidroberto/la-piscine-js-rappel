@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+}
+
+.card {
+  width: 33.33%;
+}
+
+.card-img {
+  width: 100%;
+}
+
+.availability {
+  display: none;
+}
